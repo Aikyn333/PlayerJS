@@ -1,1 +1,1 @@
-first Vanilla  javascript project 
+first  PlayerJS Vanilla  javascript project 
